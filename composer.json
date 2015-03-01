@@ -13,7 +13,7 @@
         "league/fractal": "~0.8"
     },
     "require-dev":{
-        "illuminate/support": "4.1.*"
+        "illuminate/support": "5.0.*"
     },
     "keywords": [
         "laravel",
